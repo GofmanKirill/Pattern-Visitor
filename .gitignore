@@ -1,3 +1,6 @@
 
 *.meta
-Assembly-CSharp.csproj
+Library
+Temp
+Logs
+UserSettings
